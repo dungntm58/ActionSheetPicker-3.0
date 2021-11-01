@@ -7,7 +7,7 @@ let package = Package(
     name: "ActionSheetPicker-3.0",
     products: [
         .library(
-            name: "ActionSheetPicker-3.0",
+            name: "ActionSheetPicker",
             targets: ["CoreActionSheetPicker"]),
     ],
     targets: [
